@@ -9,5 +9,5 @@ int main()
 				 "-----\t-----\n";
 	std::cout << "Square\t" << 4 << '\n' <<
 				 "Circle\t?\n";
-	std::cout << shape << '\t' << sides << 'n';
+	std::cout << shape << '\t' << sides << '\n';
 }

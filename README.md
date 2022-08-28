@@ -85,6 +85,26 @@ To automatically close the console when debugging stops, enable Tools->Options->
 Press any key to close this window . . .
 ```
 
+
+### `expl1401`
+#### `list1402.in`
+```
+1 2 3 4 5 6 7 8 9 10
+```
+#### `list1402.out`
+```
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+```
+
 ### `expl1501`
 ```sh
 lorem
@@ -110,4 +130,165 @@ sit     2
 E:\workspace_cpp\xplore_01\build\Debug\expl1501.exe (process 36716) exited with code 0.
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
 Press any key to close this window . . .
+```
+
+### `expl1502`
+```sh
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer porttitor consectetur dui, congue suscipit magna. Ut et lacus accumsan, consectetur arcu ac, mollis urna. Etiam a auctor leo, a sodales tortor. Nulla facilisi. Etiam turpis felis, ullamcorper ut magna vitae, commodo tincidunt orci. Aliquam erat volutpat. Sed ut condimentum nisi. Proin laoreet nec lorem id volutpat. Nam eget pharetra ipsum.
+
+Sed neque felis, posuere aliquet lacinia sed, commodo eu purus. Aliquam suscipit massa at bibendum ultrices. Morbi ullamcorper tempus arcu at luctus. Mauris sagittis tincidunt nisi ut iaculis. Aenean porttitor consectetur tortor, aliquam dignissim augue ultricies quis. Proin interdum sem at ex consectetur, sed porta ligula egestas. Phasellus augue arcu, vulputate nec scelerisque vel, euismod sit amet orci. Donec ornare justo at justo tempor imperdiet.
+
+Ut mattis eu dolor vitae condimentum. Morbi sit amet maximus ex. Mauris nec sapien est. Pellentesque tincidunt mauris egestas, rhoncus sem dignissim, ornare metus. Nulla at augue libero. Proin fermentum ac lacus in pretium. Quisque tortor lacus, tincidunt vitae turpis a, fermentum auctor dolor. Mauris vel nulla justo. Integer ornare consectetur faucibus. Maecenas vel sapien tristique, dignissim mauris eget, fermentum nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque tristique a ligula in pharetra. Aenean augue nunc, convallis id nisi eget, ultricies mattis arcu. In maximus dolor ipsum, non maximus turpis laoreet non. Nulla sit amet ipsum dictum augue vulputate egestas suscipit vitae nisi.
+^Z
+Aenean               2
+Aliquam              2
+Donec                1
+Etiam                2
+In                   1
+Integer              2
+Interdum             1
+Lorem                1
+Maecenas             1
+Mauris               3
+Morbi                2
+Nam                  1
+Nulla                3
+Pellentesque         2
+Phasellus            1
+Proin                3
+Quisque              1
+Sed                  2
+Ut                   2
+a                    3
+a,                   1
+ac                   2
+ac,                  1
+accumsan,            1
+adipiscing           1
+aliquam              1
+aliquet              1
+amet                 3
+amet,                1
+ante                 1
+arcu                 2
+arcu,                1
+arcu.                1
+at                   5
+auctor               2
+augue                5
+bibendum             1
+commodo              2
+condimentum          1
+condimentum.         1
+congue               1
+consectetur          5
+consectetur,         1
+convallis            1
+dictum               1
+dignissim            2
+dignissim,           1
+dolor                3
+dolor.               1
+dui,                 1
+egestas              1
+egestas,             1
+egestas.             1
+eget                 1
+eget,                2
+elit.                1
+erat                 1
+est.                 1
+et                   2
+eu                   2
+euismod              1
+ex                   1
+ex.                  1
+facilisi.            1
+fames                1
+faucibus.            2
+felis,               2
+fermentum            3
+iaculis.             1
+id                   2
+imperdiet.           1
+in                   3
+interdum             1
+ipsum                3
+ipsum,               1
+ipsum.               1
+justo                2
+justo.               1
+lacinia              1
+lacus                2
+lacus,               1
+laoreet              2
+leo,                 1
+libero.              1
+ligula               2
+lorem                1
+luctus.              1
+magna                1
+magna.               1
+malesuada            1
+massa                1
+mattis               2
+mauris               2
+maximus              3
+metus.               1
+mollis               1
+nec                  3
+neque                1
+nisi                 2
+nisi.                2
+non                  1
+non.                 1
+nulla                1
+nunc,                1
+nunc.                1
+orci.                2
+ornare               3
+pharetra             1
+pharetra.            1
+porta                1
+porttitor            2
+posuere              1
+pretium.             1
+primis               1
+purus.               1
+quis.                1
+rhoncus              1
+sagittis             1
+sapien               2
+scelerisque          1
+sed                  1
+sed,                 1
+sem                  2
+sit                  4
+sodales              1
+suscipit             3
+tempor               1
+tempus               1
+tincidunt            4
+tortor               1
+tortor,              1
+tortor.              1
+tristique            1
+tristique,           1
+turpis               3
+ullamcorper          2
+ultrices.            1
+ultricies            2
+urna.                1
+ut                   3
+vel                  2
+vel,                 1
+vitae                3
+vitae,               1
+volutpat.            2
+vulputate            2
+
+E:\workspace_cpp\xplore_01\build\Debug\expl1502.exe (process 35612) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
 ```
