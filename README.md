@@ -594,3 +594,29 @@ E:\workspace_cpp\xplore_01\build\Debug\expl4005.exe (process 28056) exited with 
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
 Press any key to close this window . . .
 ```
+
+### `expl4101`
+![expl4101](img/expl4101.jpg)
+
+### `expl4102`
+```sh
+Name 1: Ryan
+Height (cm): 175
+Weight (kg): 70
+Sex (M or F): M
+Name 2: Celvie
+Height (cm): 163
+Weight (kg): 55
+Sex (M or F): F
+Name 3: Vincent
+Height (cm): 178
+Weight (kg): 65
+Sex (M or F): M
+   175     70  M    22* Ryan
+   163     55  F    20  Celvie
+   178     65  M    20  Vincent
+
+E:\workspace_cpp\xplore_01\expl4102\build\Debug\vital.exe (process 47128) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
