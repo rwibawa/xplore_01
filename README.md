@@ -292,3 +292,305 @@ To automatically close the console when debugging stops, enable Tools->Options->
 Press any key to close this window . . .
 
 ```
+
+### `expl1601`
+```sh
+the quick brown fox jumps over the lazy dog
+^Z
+"the": occurs 2 times
+
+E:\workspace_cpp\xplore_01\build\Debug\expl1601.exe (process 38300) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl1802`
+```sh
+1234567
+^Z
+sum = 1,234,567
+
+E:\workspace_cpp\xplore_01\build\Debug\expl1802.exe (process 44284) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl1803`
+```sh
+barça
+^Z
+bara    1
+
+E:\workspace_cpp\xplore_01\build\Debug\expl1803.exe (process 47740) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl2001`
+```sh
+Value: 1
+Value: 2
+Value: 3
+Value: 4
+Value: 5
+Value: ^Z
+
+count   = 5
+sum             = 15
+mean            = 3
+
+E:\workspace_cpp\xplore_01\build\Debug\expl2001.exe (process 43056) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl2101`
+```sh
+a=10
+b=42
+{ 10 20 30 40 }
+{ 52 62 72 82 }
+
+E:\workspace_cpp\xplore_01\build\Debug\expl2101.exe (process 44092) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl2301`
+```sh
+1
+2
+3
+4
+5
+^Z
+2
+4
+6
+8
+10
+
+E:\workspace_cpp\xplore_01\build\Debug\expl2301.exe (process 34680) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl2302`
+```sh
+Multiplier: 3
+Data:
+2
+3
+5
+7
+11
+^Z
+6
+9
+15
+21
+33
+
+E:\workspace_cpp\xplore_01\build\Debug\expl2302.exe (process 45772) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl2303`
+```sh
+3, 0, 0
+
+E:\workspace_cpp\xplore_01\build\Debug\expl2303.exe (process 35160) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl2304`
+```sh
+radar
+radar
+library
+radar
+radar
+^Z
+
+E:\workspace_cpp\xplore_01\build\Debug\expl2304.exe (process 46256) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl3302`
+```sh
+constructor(0)
+default constructor
+copy constructor(0)
+constructor(42)
+copy constructor(42)
+copy constructor(43)
+
+E:\workspace_cpp\xplore_01\build\Debug\expl3302.exe (process 34292) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl3702`
+```sh
+base
+middle
+derived
+
+E:\workspace_cpp\xplore_01\build\Debug\expl3702.exe (process 4480) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl3703`
+```sh
+base
+middle
+derived
+~derived
+~middle
+~base
+
+E:\workspace_cpp\xplore_01\build\Debug\expl3703.exe (process 58016) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl3704`
+```sh
+base(42)
+derived(42)
+copy base(43
+base(88)
+derived(88)
+~derived
+~base
+~base
+~derived
+~base
+
+E:\workspace_cpp\xplore_01\build\Debug\expl3704.exe (process 52868) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+```
+
+### `expl3801`
+```sh
+Ernest lemmingway, The Sun Also Crashes, 2000.
+Ray Lischner, Exploring C++, 2013.
+Popular C++, 13(42), January 1, 2000.
+C++ Today, 1(1), January 13, 1984.
+
+E:\workspace_cpp\xplore_01\build\Debug\expl3801.exe (process 35336) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl3802`
+```sh
+Ernest lemmingway, The Sun Also Crashes, 2000.
+Ray Lischner, Exploring C++, 2013.
+Popular C++, 13(42), January 1, 2000.
+C++ Today, 1(1), January 13, 1984.
+Game of Thrones, 120.
+House of Dragons, 110.
+
+E:\workspace_cpp\xplore_01\build\Debug\expl3803.exe (process 28420) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl3903`
+```sh
+{ 1 2 3 }
+{ 1 2 3 }
+{ 1 2 3 }
+{ }
+
+E:\workspace_cpp\xplore_01\build\Debug\expl3903.exe (process 56476) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl4002`
+```sh
+10
+100
+
+E:\workspace_cpp\xplore_01\build\Debug\expl4002.exe (process 31168) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl4003`
+```sh
+25
+15
+83
+42
+35
+96
+24
+26
+42
+63
+66
+54
+^Z
+index of start of range: 5
+index of end of range:   7
+size of range:                                          2
+
+E:\workspace_cpp\xplore_01\build\Debug\expl4003.exe (process 52848) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl4004`
+```sh
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+E:\workspace_cpp\xplore_01\build\Debug\expl4004.exe (process 40328) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl4005`
+```sh
+32769
+32770
+32771
+32772
+32773
+32774
+32775
+32776
+32777
+32778
+
+E:\workspace_cpp\xplore_01\build\Debug\expl4005.exe (process 28056) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
