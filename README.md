@@ -2,6 +2,7 @@
 Exploring C++ 11
 * [Exploring C++ 11, Second Edition](http://www.apress.com/9781430261933)
 * [cmake 3.14.6](https://cmake.org/download/)
+* [Source codes](https://github.com/Apress/exploring-c-11)
 
 ## 1. Setup
 ```sh
@@ -617,6 +618,30 @@ Sex (M or F): M
    178     65  M    20  Vincent
 
 E:\workspace_cpp\xplore_01\expl4102\build\Debug\vital.exe (process 47128) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### `expl4203`
+![expl4203](img/expl4203.jpg)
+
+### `expl4204`
+```sh
+How many integers do you want? 10
+What is the first integer? 2
+What is the interval between successive integer? 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+E:\workspace_cpp\xplore_01\expl4204\build\Debug\sequence.exe (process 57728) exited with code 0.
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
 Press any key to close this window . . .
 ```

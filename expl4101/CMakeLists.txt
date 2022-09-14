@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.0 FATAL_ERROR)
 
 # project name and language
-project(List4100 LANGUAGES CXX)
+project(List4101 LANGUAGES CXX)
 
 # require C++11
 set(CMAKE_CXX_STANDARD 11)
