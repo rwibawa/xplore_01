@@ -31,6 +31,9 @@ drwxr-xr-x 4 ryan ryan  4096 Oct  5 23:12 CMakeFiles/
 
 ## 2. Output:
 ### `expl0802`
+<details>
+   <summary>Show</summary>
+
 ```sh
 Date: 03/14/2006
 Pay to the order of: CASH
@@ -40,6 +43,7 @@ E:\workspace_cpp\xplore_01\build\Debug\expl0802.exe (process 42836) exited with 
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
 Press any key to close this window . . .
 ```
+</details>
 
 ### `expl0803`
 ```sh
@@ -54,6 +58,9 @@ Press any key to close this window . . .
 ```
 
 ### `expl0804`
+<details>
+   <summary>Show</summary>
+
 ```sh
    *|   1   2   3   4   5   6   7   8   9  10
 ----+----------------------------------------
@@ -72,6 +79,7 @@ E:\workspace_cpp\xplore_01\build\Debug\expl0804.exe (process 28748) exited with 
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
 Press any key to close this window . . .
 ```
+</details>
 
 ### `expl0901`
 ```sh
@@ -154,6 +162,9 @@ Press any key to close this window . . .
 ```
 
 ### `expl1502`
+<details>
+   <summary>Show</summary>
+
 ```sh
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer porttitor consectetur dui, congue suscipit magna. Ut et lacus accumsan, consectetur arcu ac, mollis urna. Etiam a auctor leo, a sodales tortor. Nulla facilisi. Etiam turpis felis, ullamcorper ut magna vitae, commodo tincidunt orci. Aliquam erat volutpat. Sed ut condimentum nisi. Proin laoreet nec lorem id volutpat. Nam eget pharetra ipsum.
 
@@ -313,6 +324,7 @@ To automatically close the console when debugging stops, enable Tools->Options->
 Press any key to close this window . . .
 
 ```
+</details>
 
 ### `expl1601`
 ```sh
