@@ -629,8 +629,15 @@ Press any key to close this window . . .
 ```
 
 ### `expl4101`
+
+Visual Studio 2017:
 ![expl4101](img/expl4101.jpg)
+
+VSCode on Linux:
 ![expl4101](img/expl4101-vscode.jpg)
+
+VSCode on Win10 + MSYS2 MINGW64:
+![expl4101](img/expl4101-vscode-win10.jpg)
 
 ### `expl4102`
 ```sh
