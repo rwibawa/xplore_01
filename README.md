@@ -4,10 +4,30 @@ Exploring C++ 11
 * [cmake 3.14.6](https://cmake.org/download/)
 * [Source codes](https://github.com/Apress/exploring-c-11)
 
-## 1. Setup
+# 1. Setup
 ```sh
-$ cmake -H. -Bbuild
+$ mkdir build
+$ cd build
+$ cmake --version
+$ cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Debug ..
+$ make -j8
+
+~/workspace_c++/xplore_01/build$ ll expl4101/
+total 48
+drwxr-xr-x 3 ryan ryan  4096 Oct  5 23:12 ./
+drwxr-xr-x 6 ryan ryan  4096 Oct  5 23:12 ../
+drwxr-xr-x 4 ryan ryan  4096 Oct  5 23:12 CMakeFiles/
+-rw-r--r-- 1 ryan ryan  7116 Oct  5 23:12 Makefile
+-rw-r--r-- 1 ryan ryan  1133 Oct  5 23:12 cmake_install.cmake
+-rwxr-xr-x 1 ryan ryan 17608 Oct  5 23:12 gen_id*
+-rw-r--r-- 1 ryan ryan  2082 Oct  5 23:12 libgenerate_id.a
 ```
+
+## VSCode Build & Debug
+* Press `ctl-shift-b` to build.
+* Press `ctl-shift-p` (command palette) and select 'CMake: Select a kit' to select a compiler.
+* Press `ctl-shift-p` (command palette) and select 'CMake: Build Target' to build.
+* Press `F5` to start debugging.
 
 ## 2. Output:
 ### `expl0802`
