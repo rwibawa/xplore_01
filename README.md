@@ -630,6 +630,7 @@ Press any key to close this window . . .
 
 ### `expl4101`
 ![expl4101](img/expl4101.jpg)
+![expl4101](img/expl4101-vscode.jpg)
 
 ### `expl4102`
 ```sh
